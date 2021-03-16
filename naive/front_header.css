@@ -1,0 +1,53 @@
+#carouselExampleIndicators{
+    width: auto;
+    height: auto;
+    top: 60px;
+    
+}
+.carousel-inner{
+    height: auto;
+    width: auto;
+}
+.carousel slide{
+    width: 10px;
+}
+.container{
+   
+  
+
+  
+    float: none;
+    width: auto;
+   
+}
+
+.logo{
+   
+    height: 100px;
+    width: 100px;
+   
+    
+    
+}
+.navbar{
+    height: auto;
+    width: auto;
+    background: green;
+    
+}
+.fixed-top{
+    display: inline-block;
+    background: aqua;
+}
+
+.navbar-brand{
+ 
+       
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    margin-right: 1rem;
+    
+    margin-left: auto;
+   
+   
+}
